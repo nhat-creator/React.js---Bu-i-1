@@ -1,0 +1,6 @@
+Page Component
+    - Header
+    - Carousel
+    - ListItem 
+        + Item x6
+    - Footer
